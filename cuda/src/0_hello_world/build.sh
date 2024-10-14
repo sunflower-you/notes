@@ -1,0 +1,1 @@
+nvcc -o 0_hello_world 0_hello_world.cu
